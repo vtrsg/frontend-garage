@@ -1,6 +1,6 @@
 ### front-end API 
 
-REACT JS
+`REACT JS
     react-redux 
     react-router-dom
     react-scripts
@@ -10,3 +10,4 @@ REACT JS
     styled-components
     text-mask-addons
     web-vitals
+    `
